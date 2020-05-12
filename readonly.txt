@@ -1,1 +1,0 @@
-This is just a read only sample text document to show changes in the project in github desktop
